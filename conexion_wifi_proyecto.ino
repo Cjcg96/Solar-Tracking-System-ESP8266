@@ -3,8 +3,8 @@
 #include <ESP8266HTTPClient.h>
 
 // Configuración WiFi
-const char* ssid = "Cristhian";
-const char* password = "C1r2i3s4";
+const char* ssid = "";
+const char* password = "";
 const char* server = "http://api.thingspeak.com/update";
 const char* apiKey = "GKTA8ID38R9DVV8O";
 
